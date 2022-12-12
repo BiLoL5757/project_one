@@ -1,0 +1,16 @@
+.navbar-nav{
+    padding: 0 50px;
+}
+.nav-link{
+    padding: 0 30px;
+    width: 150px;
+}
+.navbar-brand{
+    padding-right: 50px;
+}
+.container{
+    margin: 30px;
+}
+.box-1 p{
+    font-family: sans-serif;
+}
